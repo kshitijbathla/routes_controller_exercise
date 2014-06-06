@@ -687,3 +687,10 @@ Now that you understand the basics of sending and retrieving data from a databas
 The most important thing to take away from this MVCr exercise is that you can (and should) build everything incrementally. It's okay to not understand the bigger picture until after you're done. Taking many small steps and checking yourself after each is the best way to stay on course, no matter what the activity is.
 
 
+
+
+HTTP verb used in this request: GET URL: "/users" Controller Name:UsersController Controller Action: index 
+View File Name:/index.html.erb Layout File Name:layouts/application  Response code of the request: 200
+
+
+[0m  [1mSELECT "users".* FROM "users"
